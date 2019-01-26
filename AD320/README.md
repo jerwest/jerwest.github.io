@@ -1,4 +1,4 @@
-# jerwest.github.io
+https://jerwest.github.io/AD320/
 AD 320 - Web App Development (NSC)
 
 This repository is for AD 320 - Web App Development at North Seattle College.  
