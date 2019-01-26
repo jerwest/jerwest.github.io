@@ -1,4 +1,4 @@
-# jerwest.github.io
+https://github.com/jerwest/jerwest.github.io/
 
 This repository will mainly be used for school projects,
 while attending North Seattle College's BAS Application
