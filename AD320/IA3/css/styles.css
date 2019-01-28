@@ -1,0 +1,74 @@
+@charset "UTF-8";
+/* CSS Document */
+
+* {
+	padding: 0;
+	margin: 0;
+}
+
+#wrapper {
+    width: 768px;
+    margin: 0 auto;
+    background: rgba(45,29,9, .7);
+    overflow: hidden;
+	display: grid;
+}
+
+.container {
+  display: flex;
+  text-align: center;
+
+}
+.container > div {
+  flex: 5; /*grow*/
+}
+
+#uno {
+    height: 350px;
+	background-color: red;
+  	margin: 0 10px 10px 10px;
+}
+
+#dos {
+    height: 350px;
+	background-color: orange;
+	margin: 0 10px 10px 10px;
+}
+
+#tres {
+    height: 350px;
+	background-color: yellow;
+	margin: 0 10px 10px 10px;
+}
+
+#cuatro {
+    height: 350px;
+	background-color: green;
+	margin: 0 10px 10px 10px;
+}
+
+#cinco {
+    height: 350px;
+	background-color: blue;
+	margin: 0 10px 10px 10px;
+}
+
+#myBtn {
+    margin: 3px 0px;
+	padding: 5px;
+}
+
+/***************INDEX PAGE***************/
+.index_header {
+	margin-bottom: 25px;
+	padding: 5px 0 10px 0;
+    font-size: 1.5em;
+    background: yellow;
+}
+
+/***************TYPOGRAPHY***************/
+h1 {
+	font-family: "Times New Roman", Times, serif;
+    color: black;
+	text-align: center;
+}
