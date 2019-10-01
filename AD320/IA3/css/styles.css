@@ -7,7 +7,7 @@
 }
 
 #wrapper {
-    width: 768px;
+    width: 770px;
     margin: 0 auto;
     background: rgba(45,29,9, .7);
     overflow: hidden;
@@ -24,7 +24,7 @@
 }
 
 #uno {
-    height: 350px;
+    height: 355px;
 	background-color: red;
   	margin: 0 10px 10px 10px;
 }
